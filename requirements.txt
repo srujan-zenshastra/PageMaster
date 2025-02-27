@@ -1,0 +1,15 @@
+streamlit
+langchain-community
+langchain-together
+langchain-huggingface
+faiss-cpu  
+pypdf  
+reportlab  
+pycryptodome
+sentence-transformers
+torch
+transformers
+numpy
+tokenizers
+safetensors
+einops
