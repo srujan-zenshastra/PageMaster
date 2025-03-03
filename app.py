@@ -336,7 +336,7 @@ Provide a direct answer or a reasoned response based on the document content. Us
 """
 prompt = PromptTemplate(template=prompt_template, input_variables=['context', 'question', 'chat_history'])
 
-TOGETHER_AI_API = 'd5b19df5283427f0301b6a6e23d463cebcbe8ba62ca2079a61a14d1897d147ae'
+TOGETHER_AI_API = '26fbfd33371ab164d5bcf7eedf3ae35da973092d0e97da99ade6cb6e3935e045'
 llm = Together(
     model="mistralai/Mistral-7B-Instruct-v0.2",
     temperature=0.3,
