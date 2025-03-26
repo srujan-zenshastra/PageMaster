@@ -18,7 +18,7 @@ Follow these steps to set up and run PageMaster:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/srujankothuri/PageMaster
+   git clone https://github.com/srujan-Zenshastra/PageMaster
    ```
 2. Navigate to the project directory:
    ```sh
